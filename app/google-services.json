@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217453361682",
+    "firebase_url": "https://chatapp-fecdb.firebaseio.com",
+    "project_id": "chatapp-fecdb",
+    "storage_bucket": "chatapp-fecdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217453361682:android:eec252c5040b5cf17576cb",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217453361682-3a12e7d30i0d5jtq00npv8mdrs7uno34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "0b69e122ad9a24bd98fa343ab8524866fc7e00bc"
+          }
+        },
+        {
+          "client_id": "217453361682-vsuo2i1cnkik3gcv42vit1eb8eqjpu8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0CRfnZcVPuQjW1EeJ-mDSVtDAliCNYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217453361682-vsuo2i1cnkik3gcv42vit1eb8eqjpu8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
